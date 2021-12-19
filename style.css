@@ -1,0 +1,62 @@
+body {
+    margin: 0px;
+    background-color: #fffcf7;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.container-form {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    }
+.h1 {
+    width: 100vw;
+    height: 35vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    }
+h1{
+    color: #772e25;
+    font-weight: 600;
+}
+label{
+    color: #c44536;
+    font-weight: 600;
+}
+.col{
+    padding-bottom: 2em;
+}
+
+.box {
+    width: 500px;
+    height: 300px;
+}
+
+#botao {
+    color: #197278;
+    border-color: #197278;
+    display: block;
+    float: right;
+    border-width: 1.5px;
+    font-weight: 600;
+
+}
+#botao:hover {
+    color: #fffcf7;
+    border-color: #197278;
+    background-color: #197278;
+}
+#imagens{
+    width: 100vw;
+    height: 0vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
